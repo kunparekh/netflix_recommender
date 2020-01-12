@@ -1,2 +1,2 @@
-# netflix_recommender
-Explore Netfix data with plotly and build a recommender
+# Netflix Recommender
+Explore Netfix data with plotly and build a recommender.
